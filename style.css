@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    color: #000;
+  }
+  
+  h1 {
+    color: #05613D;
+    border-bottom: 5px solid #05613D;
+    padding-bottom: 5px;
+  }
+  
+  h2 {
+    background-color: #05613D;
+    color: white;
+    font-size: 14px;
+    padding: 5px 10px;
+    margin-top: 30px;
+  }
+  
+  .two-col {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  .small-box {
+    width: 10px;
+    height: 10px;
+    background: #05613D;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  
+  .right {
+    text-align: right;
+  }
+  
